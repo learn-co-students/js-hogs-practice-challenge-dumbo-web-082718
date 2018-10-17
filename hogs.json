@@ -116,6 +116,15 @@
       "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": 4.1,
       "highest medal achieved": "wood",
       "image": "./hog-imgs/augustus_gloop.jpg"
+    },
+    {
+      "name": "test hog",
+      "specialty": "hoggin",
+      "image": "https://thenypost.files.wordpress.com/2018/04/180427-pig-brains-outside-body-feature.jpg?quality=90&strip=all&w=618&h=410&crop=1",
+      "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": "10000",
+      "highest medal achieved": "big hog medal",
+      "greased": true,
+      "id": 13
     }
   ]
 }
